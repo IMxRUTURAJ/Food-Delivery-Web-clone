@@ -1,4 +1,4 @@
-# Food-delivery-Web-clone
+# Food Delivery Web clone
 
 #Screenshots
 
